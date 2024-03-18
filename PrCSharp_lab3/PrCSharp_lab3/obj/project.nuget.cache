@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TlIDACmF7tKdym5gtm9jXD6+aoaAKh8kIMDx/gcb+wOC/YFT/MvxxN0wgON7uS7RveVM3KF6s1zKcY2eH6gH6g==",
+  "success": true,
+  "projectFilePath": "D:\\GAS\\_TU\\pr_csharp\\PrCSharp_lab3\\PrCSharp_lab3\\PrCSharp_lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GAS\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}
