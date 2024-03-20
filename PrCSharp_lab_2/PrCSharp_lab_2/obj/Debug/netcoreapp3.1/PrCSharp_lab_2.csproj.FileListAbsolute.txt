@@ -1,0 +1,13 @@
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\bin\Debug\netcoreapp3.1\PrCSharp_lab_2.exe
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\bin\Debug\netcoreapp3.1\PrCSharp_lab_2.deps.json
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\bin\Debug\netcoreapp3.1\PrCSharp_lab_2.runtimeconfig.json
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\bin\Debug\netcoreapp3.1\PrCSharp_lab_2.runtimeconfig.dev.json
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\bin\Debug\netcoreapp3.1\PrCSharp_lab_2.dll
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\bin\Debug\netcoreapp3.1\PrCSharp_lab_2.pdb
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\obj\Debug\netcoreapp3.1\PrCSharp_lab_2.csprojAssemblyReference.cache
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\obj\Debug\netcoreapp3.1\PrCSharp_lab_2.AssemblyInfoInputs.cache
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\obj\Debug\netcoreapp3.1\PrCSharp_lab_2.AssemblyInfo.cs
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\obj\Debug\netcoreapp3.1\PrCSharp_lab_2.csproj.CoreCompileInputs.cache
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\obj\Debug\netcoreapp3.1\PrCSharp_lab_2.dll
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\obj\Debug\netcoreapp3.1\PrCSharp_lab_2.pdb
+D:\GAS\_TU\pr_csharp\PrCSharp_lab_2\PrCSharp_lab_2\obj\Debug\netcoreapp3.1\PrCSharp_lab_2.genruntimeconfig.cache
