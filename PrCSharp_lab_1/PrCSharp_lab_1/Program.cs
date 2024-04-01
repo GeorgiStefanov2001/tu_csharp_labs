@@ -6,7 +6,7 @@ namespace PrCSharp_lab_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Hello World!");
         }
     }
 }
